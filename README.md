@@ -1,2 +1,2 @@
 # dataAnalytics2020
-Practicing common data analytics project
+Practicing common data analytics projects
